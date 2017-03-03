@@ -1,0 +1,41 @@
+{
+  "title" : "API-Gateway文档",
+  "description" : "API-Gateway文档集合",
+  "author" : "API-Gateway",
+  "generator": "site",
+  "language" : "zh-hans",
+  "links" : {
+    "sidebar" : {
+      "主页" : "http://code.huawei.com/cloud-service-dev-team-devops/api-gateway",
+      "如何编辑此文档？" : "http://pages.huawei.com/cloud-service-dev-team-devops/api-gateway/gitbook.html"
+    }
+  },
+  "plugins": [
+    "tbfed-pagefooter",
+    "ace",
+    "splitter",
+    "yahei",
+    "toc",
+    "anchor-navigation"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "weibo": true,
+      "google": false,
+      "facebook": false,
+      "twitter": false
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright(C) 2017, Huawei Technologies Co., Ltd",
+      "modify_label": "修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "toc": {
+      "addClass": true,
+      "className": "toc"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
