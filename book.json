@@ -6,7 +6,7 @@
   "language" : "zh-hans",
   "links" : {
     "sidebar" : {
-      "主页" : "/",
+      "主页" : "/"
     }
   },
   "plugins": [
