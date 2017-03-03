@@ -1,12 +1,12 @@
 {
   "title" : "华大幼儿园IC-1班",
   "description" : "华大幼儿园IC-1班",
-  "author" : "肖鹏",
+  "author" : "小西瓜爸爸",
   "generator": "site",
   "language" : "zh-hans",
   "links" : {
     "sidebar" : {
-      "主页" : "#",
+      "主页" : "/",
     }
   },
   "plugins": [
@@ -25,7 +25,7 @@
       "twitter": false
     },
     "tbfed-pagefooter": {
-      "copyright":"Copyright(C) 2017, 华大幼儿园, Ltd",
+      "copyright":"Copyright(C) 2017, 华大幼儿园IC-1班, Ltd",
       "modify_label": "修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
